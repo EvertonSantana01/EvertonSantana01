@@ -1,4 +1,9 @@
-### Olá! Eu sou Everton Santana 💻
+# Olá, eu sou Everton Santana! 👋💻  
+
+Desenvolvedor em constante evolução e estudante de Análise e Desenvolvimento de Sistemas em Salvador-BA.  
+Tenho me dedicado ao aprendizado de tecnologias modernas e ao desenvolvimento de projetos acadêmicos e pessoais que unem funcionalidade e eficiência.  
+Busco sempre ampliar meus conhecimentos para resolver desafios de forma criativa e organizada.  
+
    ![Everton GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonSantana01&show_icons=true&theme=radical)
 ## Tecnologia que eu uso 
 
