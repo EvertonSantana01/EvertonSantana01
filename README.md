@@ -1,30 +1,32 @@
 # Olá, eu sou Everton Santana! 👋💻  
 
-Desenvolvedor em constante evolução e estudante de Análise e Desenvolvimento de Sistemas em Salvador-BA.  
-Tenho me dedicado ao aprendizado de tecnologias modernas e ao desenvolvimento de projetos acadêmicos e pessoais que unem funcionalidade e eficiência.  
-Busco sempre ampliar meus conhecimentos para resolver desafios de forma criativa e organizada.  
+Desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas em Salvador-BA. Ao longo da minha jornada, tenho me dedicado a explorar novas tecnologias, sempre buscando maneiras criativas de resolver problemas e otimizar processos.
+
+Sou movido pela curiosidade e pela vontade de criar soluções que realmente façam a diferença. Além disso, estou constantemente em busca de novos desafios que me permitam crescer, aprender e colaborar com outros profissionais. Seja no desenvolvimento de projetos pessoais ou acadêmicos, meu foco é sempre a eficiência e a qualidade no que faço.
 
    ![Everton GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonSantana01&show_icons=true&theme=radical)
 ## Tecnologia que eu uso 
 
 ### Linguagens
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="SASS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
+<div align="left"> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" /> 
+   <img width="12" /> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" /> 
+   <img width="12" /> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+   <img width="12" /> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="SASS logo" /> 
+   <img width="12" /> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" /> 
+   <img width="12" /> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" /> 
 </div>
 
 ### Banco de Dados
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
   <img width="12" />
@@ -33,6 +35,8 @@ Busco sempre ampliar meus conhecimentos para resolver desafios de forma criativa
 
 ### Frameworks
 <div align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot logo" />
+   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
@@ -61,6 +65,10 @@ Busco sempre ampliar meus conhecimentos para resolver desafios de forma criativa
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub logo" />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="30" alt="Insomnia logo" />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="30" alt="Prisma logo" />
 </div>
 
 
